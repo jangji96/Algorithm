@@ -5,4 +5,4 @@
  
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
-2557 | [2557](https://www.acmicpc.net/problem/2557) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2557.py) | 구현d
+2557 | [Hello World](https://www.acmicpc.net/problem/2557) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2557.py) | 구현d
