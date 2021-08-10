@@ -10,3 +10,5 @@
 10171 | [고양이](https://www.acmicpc.net/problem/10171) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10171.py) | 구현
 10172 | [개](https://www.acmicpc.net/problem/10172) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10172.py) | 구현
 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1000.py) | 수학, 구현, 사칙연산
+1001 | [A-B](https://www.acmicpc.net/problem/1001) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1001.py) | 수학, 구현, 사칙연산
+10998 | [A×B](https://www.acmicpc.net/problem/10998) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10998.py) | 수학, 구현, 사칙연산
