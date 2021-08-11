@@ -12,3 +12,5 @@
 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1000.py) | 수학, 구현, 사칙연산
 1001 | [A-B](https://www.acmicpc.net/problem/1001) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1001.py) | 수학, 구현, 사칙연산
 10998 | [A×B](https://www.acmicpc.net/problem/10998) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10998.py) | 수학, 구현, 사칙연산
+1008 | [A×B](https://www.acmicpc.net/problem/1008) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1008.py) | 수학, 구현, 사칙연산
+10869 | [A×B](https://www.acmicpc.net/problem/10869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10869.py) | 수학, 구현, 사칙연산
