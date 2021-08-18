@@ -2,10 +2,11 @@
 
 ## Tutorial
 
- 강의   |   내용   |   실습  |
- ----- | ------- | ------- |
- [1강](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1)|알고리즘의 개요||
- [2강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 정렬 알고리즘의 개요와 선택 정렬(Selection Sort) | [실습](https://github.com/jangji96/Algorithm/blob/master/Tutorial/selection_sort.py)
+ 강의   |   내용   |   수강일   |  실습   |
+ ----- | ------- | ------- | ------ |
+ [1강](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1) | 알고리즘의 개요 | 2021.08.17 | |
+ [2강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 정렬 알고리즘의 개요와 선택 정렬(Selection Sort) | 2021.08.17 | [실습](https://github.com/jangji96/Algorithm/blob/master/Tutorial/selection_sort.py)
+
 
 ## Baekjoon / 단계별로 풀어보기
 
