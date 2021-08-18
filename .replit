@@ -1,2 +1,2 @@
 language = "python"
-run = "python ./Tutorial/selection_sort.py"
+run = "python ./BOJ/10430.py"
