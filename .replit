@@ -1,2 +1,2 @@
-language = "bash"
+language = "python"
 run = "python ./BOJ/1000.py"
