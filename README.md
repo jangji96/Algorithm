@@ -14,3 +14,9 @@
 10998 | [A×B](https://www.acmicpc.net/problem/10998) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10998.py) | 수학, 구현, 사칙연산
 1008 | [A/B](https://www.acmicpc.net/problem/1008) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1008.py) | 수학, 구현, 사칙연산
 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10869.py) | 수학, 구현, 사칙연산
+
+- Tutorial
+
+ 강의   |   내용   |   실습  |
+ ----- | ------- | ------- |
+ [2강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 선택정렬 | [실습](https://github.com/jangji96/Algorithm/blob/master/Tutorial/selection_sort.py)
