@@ -25,3 +25,9 @@
 10869 | [사칙연산](https://www.acmicpc.net/problem/10869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10869.py) | 수학, 구현, 사칙연산
 10430 | [나머지](https://www.acmicpc.net/problem/10430) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10430.py) | 수학, 구현, 사칙연산
 2588 | [곱셈](https://www.acmicpc.net/problem/2588) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2588.py) | 수학, 사칙연산
+
+### 2. if문
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1330.py) | 수학, 구현, 사칙연산
