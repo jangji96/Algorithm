@@ -33,3 +33,4 @@
 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1330.py) | 수학, 구현, 사칙연산
 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9498.py) | 구현
 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2753.py) | 수학, 구현
+14181 | [사분면 고르기](https://www.acmicpc.net/problem/14181) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/14181.py) | 수학, 구현, 기하학
