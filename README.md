@@ -34,3 +34,4 @@
 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9498.py) | 구현
 2753 | [윤년](https://www.acmicpc.net/problem/2753) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2753.py) | 수학, 구현
 14181 | [사분면 고르기](https://www.acmicpc.net/problem/14181) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/14181.py) | 수학, 구현, 기하학
+2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2884.py) | 수학, 사칙연산
