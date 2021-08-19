@@ -31,3 +31,4 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 1330 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1330.py) | 수학, 구현, 사칙연산
+9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9498.py) | 구현
