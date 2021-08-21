@@ -22,7 +22,7 @@ while q :
   if x<0 or y<0 or x>=n or y>=m or arr[x][y]==0:
     continue
    
-	#새로 찾은 거리가 기존 저장한 거리보다 더 작고, 방문한적 없으면 다음 갈장소 탐색
+  #새로 찾은 거리가 기존 저장한 거리보다 더 작고, 방문한적 없으면 다음 갈장소 탐색
   if dis < disArr[x][y] and disArr[x][y]==n*m :
     disArr[x][y] = dis
     
