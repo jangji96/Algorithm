@@ -41,3 +41,4 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
+1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1235.py) | 구현, 문자열
