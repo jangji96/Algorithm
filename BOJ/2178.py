@@ -24,7 +24,7 @@ while q :
    
 	#새로 찾은 거리가 기존 저장한 거리보다 더 작고, 방문한적 없으면 다음 갈장소 탐색
   if dis < disArr[x][y] and disArr[x][y]==n*m :
-    disArr[x][y] = dis+1
+    disArr[x][y] = dis
     
     q.append((x+1,y,dis+1))
     q.append((x-1,y,dis+1))
