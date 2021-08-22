@@ -43,3 +43,4 @@
 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
 1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1235.py) | 구현, 문자열
 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11508.py) | 그리디 알고리즘, 정렬
+16953 | [A → B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/16953.py) | 그래프 이론, 그리디 알고리즘, 그래프 탐색, 너비 우선 탐색

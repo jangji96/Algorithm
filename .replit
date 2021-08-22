@@ -1,2 +1,2 @@
 language = "python"
-run = "python3 ./BOJ/11508.py"
+run = "python3 ./BOJ/16953.py"
