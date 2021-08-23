@@ -42,6 +42,7 @@
  ----- | ------- | ------- | -----
 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2739.py) | 수학, 구현, 사칙연산
 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10950.py) | 수학, 구현, 사칙연산
+8393 | [합](https://www.acmicpc.net/problem/8393) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/8393.py) | 수학, 구현
 
 ## Baekjoon / 문제 풀이
 
