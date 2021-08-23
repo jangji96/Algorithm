@@ -36,6 +36,12 @@
 14181 | [사분면 고르기](https://www.acmicpc.net/problem/14181) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/14181.py) | 수학, 구현, 기하학
 2884 | [알람 시계](https://www.acmicpc.net/problem/2884) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2884.py) | 수학, 사칙연산
 
+### 2. for문
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+2739 | [구구단](https://www.acmicpc.net/problem/2739) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2739.py) | 수학, 구현, 사칙연산
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
