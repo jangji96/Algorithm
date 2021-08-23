@@ -47,6 +47,7 @@
 2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2741.py) | 구현
 2742 | [기찍 N](https://www.acmicpc.net/problem/2742) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2742.py) | 구현
 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11021.py) | 수학, 구현, 사칙연산
+11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11022.py) | 수학, 구현, 사칙연산
 
 ## Baekjoon / 문제 풀이
 
