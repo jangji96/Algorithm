@@ -50,6 +50,8 @@
 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11022.py) | 수학, 구현, 사칙연산
 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2438.py) | 구현
 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2439.py) | 구현
+10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10871.py) | 수학, 구현
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
