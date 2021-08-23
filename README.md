@@ -44,6 +44,7 @@
 10950 | [A+B - 3](https://www.acmicpc.net/problem/10950) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10950.py) | 수학, 구현, 사칙연산
 8393 | [합](https://www.acmicpc.net/problem/8393) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/8393.py) | 수학, 구현
 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/15552.py) | 수학, 구현, 사칙연산
+2741 | [N 찍기](https://www.acmicpc.net/problem/2741) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2741.py) | 구현
 
 ## Baekjoon / 문제 풀이
 
