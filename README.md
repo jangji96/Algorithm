@@ -77,6 +77,7 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/15596.py) | 수학, 구현, 사칙연산
+1065 | [한수](https://www.acmicpc.net/problem/1065) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1065.py) | 수학, 구현
 4647 | [셀프 넘버](https://www.acmicpc.net/problem/4647) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4647.py) | 수학, 구현
 
 ## Baekjoon / 문제 풀이
