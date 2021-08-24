@@ -70,6 +70,7 @@
 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/3052.py) | 수학, 사칙연산
 1546 | [평균](https://www.acmicpc.net/problem/1546) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1546.py) | 수학, 사칙연산
 5958 | [OX퀴즈](https://www.acmicpc.net/problem/5958) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5958.py) | 구현
+4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4344.py) | 수학, 사칙연산
 
 ## Baekjoon / 문제 풀이
 
