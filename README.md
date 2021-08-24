@@ -60,6 +60,13 @@
 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10951.py) | 수학, 구현, 사칙연산
 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1110.py) | 수학, 구현
 
+### 5. 1차원 배열
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10818.py) | 수학, 구현
+2562 | [최댓값](https://www.acmicpc.net/problem/2562) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2562.py) | 구현
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
