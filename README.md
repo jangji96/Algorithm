@@ -94,6 +94,7 @@
 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5622.py) | 구현
 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2941.py) | 구현, 문자열
 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1316.py) | 구현, 문자열
+2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2869.py) | 수학
 
 ### 8. 기본 수학 1
 
