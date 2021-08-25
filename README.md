@@ -80,6 +80,12 @@
 1065 | [한수](https://www.acmicpc.net/problem/1065) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1065.py) | 수학, 구현
 4647 | [셀프 넘버](https://www.acmicpc.net/problem/4647) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4647.py) | 수학, 구현
 
+### 7. 문자열
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11654.py) | 구현
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
