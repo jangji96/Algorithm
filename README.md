@@ -95,6 +95,13 @@
 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2941.py) | 구현, 문자열
 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1316.py) | 구현, 문자열
 
+### 8. 기본 수학 1
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1712.py) | 수학, 사칙연산
+2292 | [벌집](https://www.acmicpc.net/problem/2292) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2292.py) | 수학
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
