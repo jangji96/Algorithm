@@ -91,6 +91,7 @@
 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1157.py) | 구현, 문자열
 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1152.py) | 구현, 문자열
 2908 | [상수](https://www.acmicpc.net/problem/2908) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2908.py) | 구현
+5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5622.py) | 구현
 
 ## Baekjoon / 문제 풀이
 
