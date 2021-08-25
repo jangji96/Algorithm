@@ -6,7 +6,7 @@
  ----- | ------- | ------- | ------ |
  [1강](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1) | 알고리즘의 개요 | 2021.08.17 | |
  [2강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 정렬 알고리즘의 개요와 선택 정렬(Selection Sort) | 2021.08.17 | [실습](https://github.com/jangji96/Algorithm/blob/master/Tutorial/selection_sort.py)
- [3강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 정렬 너비 우선 탐색(Breath First Search) | 2021.08.20 | [실습](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py)
+ [16강](https://www.youtube.com/watch?v=66ZKz-FktXo&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=16) | 정렬 너비 우선 탐색(Breath First Search) | 2021.08.20 | [실습](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py)
 
 ## Baekjoon / 단계별로 풀어보기
 
@@ -85,6 +85,9 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11654.py) | 구현
+11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11720.py) | 수학, 문자열, 사칙연산
+10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1171080920.py) | 구현, 문자열
+
 
 ## Baekjoon / 문제 풀이
 
