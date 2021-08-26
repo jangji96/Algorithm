@@ -103,6 +103,7 @@
 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1712.py) | 수학, 사칙연산
 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2292.py) | 수학
 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1193.py) | 수학
+10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10250.py) | 수학
 
 ## Baekjoon / 문제 풀이
 
