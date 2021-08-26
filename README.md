@@ -109,6 +109,12 @@
 10757 | [큰 수 A+B](https://www.acmicpc.net/problem/10757) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10757.py) | 수학, 구현, 사칙연산, 임의 정밀도 / 큰 수 연산
 1011 | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1011.py) | 수학
 
+### 9. 기본 수학 2
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1978.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
