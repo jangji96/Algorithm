@@ -116,6 +116,7 @@
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1978.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 2581 | [소수](https://www.acmicpc.net/problem/2581) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2581.py) | 수학, 정수론, 소수 판정
 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11653.py) | 수학, 정수론, 소수 판정
+1929 | [소수 구하기 ](https://www.acmicpc.net/problem/1929) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1929.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 
 ## Baekjoon / 문제 풀이
 
