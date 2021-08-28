@@ -95,7 +95,6 @@
 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5622.py) | 구현
 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2941.py) | 구현, 문자열
 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1316.py) | 구현, 문자열
-2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2869.py) | 수학
 
 ### 8. 기본 수학 1
 
@@ -104,6 +103,7 @@
 1712 | [손익분기점](https://www.acmicpc.net/problem/1712) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1712.py) | 수학, 사칙연산
 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2292.py) | 수학
 1193 | [분수찾기](https://www.acmicpc.net/problem/1193) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1193.py) | 수학
+2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2869.py) | 수학
 10250 | [ACM 호텔](https://www.acmicpc.net/problem/10250) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10250.py) | 수학
 2775 | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2775.py) | 수학
 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2839.py) | 수학, 다이나믹 프로그래밍, 그리디 알고리즘
@@ -117,7 +117,8 @@
 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1978.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 2581 | [소수](https://www.acmicpc.net/problem/2581) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2581.py) | 수학, 정수론, 소수 판정
 11653 | [소인수분해](https://www.acmicpc.net/problem/11653) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11653.py) | 수학, 정수론, 소수 판정
-1929 | [소수 구하기 ](https://www.acmicpc.net/problem/1929) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1929.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
+1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1929.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
+4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4948.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 
 ## Baekjoon / 문제 풀이
 
