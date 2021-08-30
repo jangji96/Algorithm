@@ -121,6 +121,7 @@
 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4948.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9020.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1085.py) | 수학, 기하학
+3009 | [네 번째 점](https://www.acmicpc.net/problem/3009) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/3009.py) | 구현, 기하학
 
 ## Baekjoon / 문제 풀이
 
