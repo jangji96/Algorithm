@@ -126,6 +126,12 @@
 3053 | [택시 기하학](https://www.acmicpc.net/problem/3053) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/3053.py) | 수학, 기하학
 1002 | [터렛](https://www.acmicpc.net/problem/1002) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1002.py) | 수학, 기하학
 
+### 10. 재귀
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10872.py) | 수학, 구현
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
