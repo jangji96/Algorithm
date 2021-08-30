@@ -120,12 +120,14 @@
 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1929.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/4948.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
 9020 | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9020.py) | 수학, 정수론, 소수 판정, 에라토스테네스의 체
+1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1085.py) | 수학, 기하학
 
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
- ----- | ------- | ------- | -----
+ ----- | ------- | ------- | ----
 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
 1235 | [학생 번호](https://www.acmicpc.net/problem/1235) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1235.py) | 구현, 문자열
 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11508.py) | 그리디 알고리즘, 정렬
 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/16953.py) | 그래프 이론, 그리디 알고리즘, 그래프 탐색, 너비 우선 탐색
+2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2156.py) | 다이나믹 프로그래밍
