@@ -141,6 +141,7 @@
  ----- | ------- | ------- | -----
 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2798.py) | 브루트포스 알고리즘
 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2231.py) | 브루트포스 알고리즘
+7568 | [덩치](https://www.acmicpc.net/problem/7568) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/7568.py) | 구현, 브루트포스 알고리즘
 
 ## Baekjoon / 문제 풀이
 
