@@ -133,6 +133,7 @@
 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10872.py) | 수학, 구현
 10872 | [피보나치 수 5](https://www.acmicpc.net/problem/10872) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10872.py) | 수학, 다이나믹 프로그래밍
 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2447.py) | 분할 정복, 재귀
+11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11729.py) | 재귀
 
 ## Baekjoon / 문제 풀이
 
