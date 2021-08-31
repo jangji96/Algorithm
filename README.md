@@ -135,6 +135,12 @@
 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2447.py) | 분할 정복, 재귀
 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11729.py) | 재귀
 
+### 11. 브루트 포스
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2798.py) | 브루트포스 알고리즘
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
