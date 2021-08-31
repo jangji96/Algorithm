@@ -131,6 +131,8 @@
  번호   |   문제   |   정답   | 분류
  ----- | ------- | ------- | -----
 10872 | [팩토리얼](https://www.acmicpc.net/problem/10872) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10872.py) | 수학, 구현
+10872 | [피보나치 수 5](https://www.acmicpc.net/problem/10872) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10872.py) | 수학, 다이나믹 프로그래밍
+2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2447.py) | 분할 정복, 재귀
 
 ## Baekjoon / 문제 풀이
 
