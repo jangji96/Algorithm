@@ -5,6 +5,9 @@
 예제 출력 1 
 A
 '''
+import sys
+input = sys.stdin.readline
+
 a=int(input())
 if a>=90 :
   print('A')
