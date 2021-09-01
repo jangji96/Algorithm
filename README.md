@@ -142,6 +142,7 @@
 2798 | [블랙잭](https://www.acmicpc.net/problem/2798) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2798.py) | 브루트포스 알고리즘
 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2231.py) | 브루트포스 알고리즘
 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/7568.py) | 구현, 브루트포스 알고리즘
+1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1018.py) | 브루트포스 알고리즘
 
 ## Baekjoon / 문제 풀이
 
@@ -152,3 +153,4 @@
 11508 | [2+1 세일](https://www.acmicpc.net/problem/11508) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11508.py) | 그리디 알고리즘, 정렬
 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/16953.py) | 그래프 이론, 그리디 알고리즘, 그래프 탐색, 너비 우선 탐색
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2156.py) | 다이나믹 프로그래밍
+2920 | [음계](https://www.acmicpc.net/problem/2920) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2920.py) | 구현
