@@ -143,6 +143,7 @@
 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2231.py) | 브루트포스 알고리즘
 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/7568.py) | 구현, 브루트포스 알고리즘
 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1018.py) | 브루트포스 알고리즘
+1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1436.py) | 브루트포스 알고리즘
 
 ## Baekjoon / 문제 풀이
 
