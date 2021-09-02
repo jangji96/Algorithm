@@ -2,26 +2,35 @@ import sys
 input = sys.stdin.readline
 
 n = int(input())
-selArr = [1]
-num = 0
-ranArr = []
-visit=[]
+ranArr = [0]
 
 for i in range(n):
   ranArr.append(int(input()))
-  visit.append(False)
-visit[0]=True
-for j in range(n) :
+
+visit = [False for _ in range(len(ranArr))]
+
+for j in range(1,len(ranArr)) :
   if visit[j] == True :
     continue
-  print(j)
-  while True :
-    print(visit,selArr,num)
-    selArr.append(ranArr[num])
-    if ranArr[ranArr[num]-1]-1 == j or visit[num] == True:
-      visit[ranArr[num]-1]=True
+  
+  temp = j
+  tempVisit = [False for _ in range(len(ranArr))]
+
+  while visit[temp] == False and tempVisit[temp] == False:
+    tempVisit[temp] = True
+    temp = ranArr[temp]
+  
+  check = temp == j
+  for i in range(1, len(ranArr)):
+    if visit[i] == True and tempVisit[i] == True:
+      check = False
       break
-    else :
-      visit[ranArr[num]-1]=True
-      num = ranArr[num]-1
-print(selArr)
+
+  if check:
+    for i in range(len(ranArr)):
+      visit[i] = visit[i] or tempVisit[i]
+
+print(visit.count(True))
+for i in range(1, len(ranArr)):
+  if visit[i]:
+    print(i)

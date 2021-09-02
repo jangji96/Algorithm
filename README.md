@@ -156,3 +156,4 @@
 2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2156.py) | 다이나믹 프로그래밍
 2920 | [음계](https://www.acmicpc.net/problem/2920) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2920.py) | 구현
 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2475.py) | 수학, 구현, 사칙연산
+2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2668.py) | 그래프 이론, 그래프 탐색, 깊이 우선 탐색
