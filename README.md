@@ -87,7 +87,7 @@
  ----- | ------- | ------- | -----
 11654 | [아스키 코드](https://www.acmicpc.net/problem/11654) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11654.py) | 구현
 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11720.py) | 수학, 문자열, 사칙연산
-10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1171080920.py) | 구현, 문자열
+10809 | [알파벳 찾기](https://www.acmicpc.net/problem/10809) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10809.py) | 구현, 문자열
 2675 | [문자열 반복](https://www.acmicpc.net/problem/2675) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2675.py) | 구현
 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1157.py) | 구현, 문자열
 1152 | [단어의 개수](https://www.acmicpc.net/problem/1152) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1152.py) | 구현, 문자열
@@ -145,6 +145,12 @@
 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1018.py) | 브루트포스 알고리즘
 1436 | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1436.py) | 브루트포스 알고리즘
 
+### 12. 정렬
+
+ 번호   |   문제   |   정답   | 분류
+ ----- | ------- | ------- | -----
+2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2750.py) | 구현, 정렬
+
 ## Baekjoon / 문제 풀이
 
  번호   |   문제   |   정답   | 분류
@@ -158,3 +164,5 @@
 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2475.py) | 수학, 구현, 사칙연산
 2668 | [숫자고르기](https://www.acmicpc.net/problem/2668) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2668.py) | 그래프 이론, 그래프 탐색, 깊이 우선 탐색
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1932.py) | 다이나믹 프로그래밍
+12018 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/12018.py) |자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐
+1796 | [신기한 키보드](https://www.acmicpc.net/problem/1796) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1796.py) |다이나믹 프로그래밍, 브루트포스 알고리즘
