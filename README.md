@@ -168,3 +168,5 @@
 1932 | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1932.py) | 다이나믹 프로그래밍
 12018 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/12018.py) |자료 구조, 그리디 알고리즘, 정렬, 우선순위 큐
 1796 | [신기한 키보드](https://www.acmicpc.net/problem/1796) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1796.py) |다이나믹 프로그래밍, 브루트포스 알고리즘
+9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9935.py) | 자료 구조, 문자열, 스택
+2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2470.py) | 정렬, 이분 탐색, 두 포인터
