@@ -171,3 +171,4 @@
 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9935.py) | 자료 구조, 문자열, 스택
 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2470.py) | 정렬, 이분 탐색, 두 포인터
 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9576.py) | 그리디 알고리즘, 이분 매칭
+1080 | [행렬](https://www.acmicpc.net/problem/1080) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1080.py) | 그리디 알고리즘
