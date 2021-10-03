@@ -172,3 +172,4 @@
 2470 | [두 용액](https://www.acmicpc.net/problem/2470) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2470.py) | 정렬, 이분 탐색, 두 포인터
 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9576.py) | 그리디 알고리즘, 이분 매칭
 1080 | [행렬](https://www.acmicpc.net/problem/1080) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1080.py) | 그리디 알고리즘
+1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1644.py) | 수학, 정수론, 두 포인터, 소수 판정, 에라토스테네스의 체
