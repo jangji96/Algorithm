@@ -13,6 +13,5 @@ for _ in range(N) :
   sArr[num] += 1
 
 for i in range(len(sArr)) :
-  if sArr[i] != 0 :
-    for _ in range(sArr[i]) :
-      print(i)
+  for _ in range(sArr[i]) :
+    print(i)
