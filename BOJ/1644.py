@@ -6,7 +6,7 @@ N = int(input())
 pCheck = [True for _ in range(N+1)]
 primeArr = []
 
-for i in range(2, int(N+1 ** 0.5)):
+for i in range(2, int(N+ 1 ** 0.5)):
   if pCheck[i]:
     for j in range(i+i, N+1, i):
       pCheck[j] = False 
