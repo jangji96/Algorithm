@@ -152,6 +152,7 @@
 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2750.py) | 구현, 정렬
 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2751.py) | 정렬
 10989 | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/10989.py) | 정렬
+2108 | [통계학](https://www.acmicpc.net/problem/2108) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2108.py) | 구현, 정렬
 
 
 ## Baekjoon / 문제 풀이
