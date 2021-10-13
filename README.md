@@ -7,7 +7,7 @@
 [1강](https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=1) | 알고리즘의 개요 | 2021.08.17 | |
 [2강](https://www.youtube.com/watch?v=8ZiSzteFRYc&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=2) | 정렬 알고리즘의 개요와 선택 정렬(Selection Sort) | 2021.08.17 | [실습](https://github.com/jangji96/Algorithm/blob/master/Tutorial/selection_sort.py)
 [16강](https://www.youtube.com/watch?v=66ZKz-FktXo&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=16) | 너비 우선 탐색(Breath First Search) | 2021.08.20 | [실습](https://github.com/jangji96/Algorithm/blob/master/BOJ/2178.py)
-[17강](https://www.youtube.com/watch?v=l0Rsu7dziws&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=17) |  깊이 우선 탐색(Depth First Search) | 2021.08.28 |
+[17강](https://www.youtube.com/watch?v=l0Rsu7dziws&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz&index=17) |  깊이 우선 탐색(Depth First Search) | 2021.08.28 ||
 
 ## Baekjoon / 단계별로 풀어보기
 
@@ -175,3 +175,5 @@
 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9576.py) | 그리디 알고리즘, 이분 매칭
 1080 | [행렬](https://www.acmicpc.net/problem/1080) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1080.py) | 그리디 알고리즘
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1644.py) | 수학, 정수론, 두 포인터, 소수 판정, 에라토스테네스의 체
+1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1181.py) | 정렬
+1259 | [펠린드롬수](https://www.acmicpc.net/problem/1259) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1259.py) | 정렬
