@@ -182,3 +182,11 @@
 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11866.py) | 구현, 자료구조, 큐
 1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1654.py) | 이분 탐색, 매개 변수 탐색
 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1697.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
+1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1764.py) | 자료 구조, 문자열, 정렬, 해시를 사용한 집합과 맵
+1780 | [종이의 개수](https://www.acmicpc.net/problem/1780) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1780.py) | 분할 정복, 재귀
+1874 | [스택 수열](https://www.acmicpc.net/problem/1874) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1874.py) | 자료구조, 스택
+1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1920.py) | 이분 탐색
+1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1931.py) | 그리디 알고리즘, 정렬
+2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2579.py) | 다이나믹 프로그래밍
+2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2805.py) | 이분 탐색, 매개 변수 탐색
+5525 | [IOIOI](https://www.acmicpc.net/problem/5525) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5525.py) | 문자열
