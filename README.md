@@ -177,3 +177,8 @@
 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1644.py) | 수학, 정수론, 두 포인터, 소수 판정, 에라토스테네스의 체
 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1181.py) | 정렬
 1259 | [펠린드롬수](https://www.acmicpc.net/problem/1259) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1259.py) | 정렬
+1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1003.py) | 다이나믹 프로그래밍
+1074 | [Z](https://www.acmicpc.net/problem/1074) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1074.py) | 뷴할정복, 재귀
+11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/11866.py) | 구현, 자료구조, 큐
+1654 | [랜선 자르기](https://www.acmicpc.net/problem/1654) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1654.py) | 이분 탐색, 매개 변수 탐색
+1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1697.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
