@@ -7,18 +7,30 @@ T = int(input())
 for _ in range(T) :
   M, N, X, Y = map(int,input().split())
   lcm = (N * M)//gcd(N,M)
-  num = Y
-  target=1
+  year = Y
+  target = 0
   
-  for _ in range(M) :
-    if num > lcm :
+  # for _ in range(M) :
+  #   if year > lcm :
+  #     print(-1)
+  #     break;
+
+  #   if year % M != 0 :
+  #     target = year % M
+  #   else :
+  #     target = M
+
+  #   if target == X:
+  #     print(year)
+  #     break
+  #   year += N
+
+  for _ in range(N) :
+    if X > lcm :
       print(-1)
       break;
-    if num % M != 0 :
-      target = num % M
-    else :
-      target = M
-    if target == X:
-      print(num)
-      break
-    num += N
+    if (X - Y) % N == 0:
+      print(X)
+      break;
+    X += M
+
