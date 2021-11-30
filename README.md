@@ -191,4 +191,5 @@
 2805 | [나무 자르기](https://www.acmicpc.net/problem/2805) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/2805.py) | 이분 탐색, 매개 변수 탐색
 5525 | [IOIOI](https://www.acmicpc.net/problem/5525) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/5525.py) | 문자열
 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/6064.py) | 수학, 정수론, 중국인의 나머지 정리
-1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1717.py) | |
+1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1717.py) | 유니온 파인드
+9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9095.py) | 다이나믹 프로그래밍
