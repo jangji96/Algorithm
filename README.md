@@ -193,3 +193,4 @@
 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/6064.py) | 수학, 정수론, 중국인의 나머지 정리
 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/1717.py) | 유니온 파인드
 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9095.py) | 다이나믹 프로그래밍
+9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9461.py) | 수학, 다이나믹 프로그래밍
