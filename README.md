@@ -195,4 +195,4 @@
 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9095.py) | 다이나믹 프로그래밍
 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9461.py) | 수학, 다이나믹 프로그래밍
 9019 | [DSLR](https://www.acmicpc.net/problem/9019) | [정답](https://github.com/jangji96/Algorithm/blob/master/BOJ/9019.py) | 그래프 이론, 그래프 탐색, 너비 우선 탐색
-![사진](https://poiemaweb.com/img/html5.png)
+
